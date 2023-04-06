@@ -1,0 +1,1 @@
+window.getGamesPlayedToday=(e,a)=>{let t=24200,r=23e3;return typeof e>"u"||typeof a>"u"?Math.floor(Math.random()*(t-r+1))+r:Math.floor(Math.random()*(a-e+1))+e};window.getAverageIqScoreToday=(e,a)=>{let t=115,r=100;return typeof e>"u"||typeof a>"u"?Math.floor(Math.random()*(t-r+1))+r:Math.floor(Math.random()*(a-e+1))+e};

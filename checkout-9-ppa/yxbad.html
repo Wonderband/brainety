@@ -1,0 +1,654 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+    <link rel="icon" type="image/x-icon" href="../images/favicons/brainety.svg">
+    <title>Brainety | Checkout</title>
+                        <!-- Hotjar Tracking Code -->
+            <script>
+                (function (h, o, t, j, a, r) {
+                    h.hj = h.hj || function () {
+                        (h.hj.q = h.hj.q || []).push(arguments)
+                    };
+                    h._hjSettings = {hjid: 3021418, hjsv: 6};
+                    a = o.getElementsByTagName('head')[0];
+                    r = o.createElement('script');
+                    r.async = 1;
+                    r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+                    a.appendChild(r);
+                })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+            </script>
+                            <!-- Facebook Pixel Code -->
+            <script>
+                !function (f, b, e, v, n, t, s) {
+                    if (f.fbq) return;
+                    n = f.fbq = function () {
+                        n.callMethod ?
+                            n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+                    };
+                    if (!f._fbq) f._fbq = n;
+                    n.push = n;
+                    n.loaded = !0;
+                    n.version = '2.0';
+                    n.queue = [];
+                    t = b.createElement(e);
+                    t.async = !0;
+                    t.src = v;
+                    s = b.getElementsByTagName(e)[0];
+                    s.parentNode.insertBefore(t, s)
+                }(window, document, 'script',
+                    'https://connect.facebook.net/en_US/fbevents.js');
+                fbq('init', 519111589757452);
+                fbq('track', 'PageView');
+            </script>
+                <!-- Google Tag Manager -->
+        <script>
+window.dataLayer = window.dataLayer || [];
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDXFSXM');</script>
+                        <!-- End Google Tag Manager -->
+            <link rel="stylesheet" href="../build/assets/app.88c62872.css">    <script type="module" src="../build/assets/app.32825e91.js"></script>    <script type="module" src="../build/assets/track-user.afac72df.js"></script>            <script type="module" src="../build/assets/alpine-splide.20fa29e2.js"></script>    <script type="module" src="../build/assets/input-validation.492ccd14.js"></script>    <!-- Freshdesk Code -->
+    <script>
+        window.fwSettings = {
+            'widget_id': 48000002486
+        };
+        !function () {
+            if ("function" != typeof window.FreshworksWidget) {
+                var n = function () {
+                    n.q.push(arguments)
+                };
+                n.q = [], window.FreshworksWidget = n
+            }
+        }()
+    </script>
+    <script type='text/javascript' src='../widgetBase/bootstrap.js' async="" defer=""></script>
+</head>
+<body class="antialiased bg-gray-0 pb-16" x-data="{ navigationIsOpened: false }" @resize.window="navigationIsOpened = false" :class="navigationIsOpened ? 'overflow-hidden pt-28' : ''">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WDXFSXM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="px-4 sm:container bg-inherit">
+    <nav class="py-[18px] md:py-6 flex justify-between">
+        <div class="flex items-center justify-between">
+            <img class="max-w-[180px]" src="../images/logos/brainety.png" alt="Brainety">
+        </div>
+            </nav>
+</div>
+
+        <div x-data="{ checked: 'brainety-brain-training-plan-6-months', orderUrl: '' }">
+        <div class="text-center font-semibold bg-[#FFD9E0] text-[#32101B] py-1.5 lg:py-4 text-body-medium md:h4">
+    <div class="container">
+        <div class="flex items-center justify-center">
+            <p class="mr-2">42% discount disappears in</p>
+            <div x-data="
+        {
+            redirect: '',
+            storageKey: 'checkout-countdown',
+            expires: '1680773587000',
+            timer: {
+                days: '00',
+                hours: '00',
+                minutes: '15',
+                seconds: '00',
+            },
+            calculateTime: function () {
+                if (this.storageKey) {
+                    localStorage.removeItem(this.storageKey, this.expires);
+                    this.expires = localStorage.getItem(this.storageKey) || this.expires;
+                    localStorage.setItem(this.storageKey, this.expires);
+                }
+                var timeDistance = this.expires - new Date().getTime();
+                if (timeDistance < 0) {
+                    timeDistance = 0;
+                }
+
+                this.timer.days = this.formatCounter(Math.floor(timeDistance / (1000 * 60 * 60 * 24)));
+                this.timer.hours = this.formatCounter(Math.floor((timeDistance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)));
+                this.timer.minutes = this.formatCounter(Math.floor((timeDistance % (1000 * 60 * 60)) / (1000 * 60)));
+                this.timer.seconds = this.formatCounter(Math.floor((timeDistance % (1000 * 60)) / 1000));
+
+
+
+
+
+
+
+
+
+
+
+            },
+            formatCounter: function (number) {
+                return number.toString().padStart(2, '0');
+            }
+        }
+" x-init="calculateTime(); setInterval(function () { calculateTime() }, 1000)" class="">
+            <span x-text="timer.hours">00</span> :
+                <span x-text="timer.minutes">00</span> :
+                <span x-text="timer.seconds">00</span>
+    </div>        </div>
+    </div>
+</div>        <div class="container">
+            <div class="flex flex-wrap justify-center mt-6 lg:mt-8">
+                <div class="lg:basis-10/12 xl:basis-8/12">
+                    <h1 class="h4 lg:h1 leading-6 text-center">
+                        Get your <span class="text-primary">personalized brain training</span> program!
+                    </h1>
+                    <p class="text-body-medium lg:text-[20px] lg:leading-6 text-center mt-4 lg:mt-6">
+                        The most popular brain training program! Over <span class="text-primary">1 643 231</span> plans ordered.
+                    </p>
+                    <div class="bg-white p-4 md:p-6 border border-gray-10 rounded shadow max-w-[503px] min-w-[343px] md:p-4 mt-6 lg:hidden mx-auto" iconsize="w-4">
+    <div class="flex flex-col space-y-2">
+                    <div class="h5 mb-2 text-[#2A1707] text-center">All plans include</div>
+                            <div class="flex items-start text-body-small mb-2 last:mb-0">
+                <img class="w-4 md:w-6 mr-2 md:mr-4" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">Brain training plan designed with your needs in mind.</div>
+            </div>
+                    <div class="flex items-start text-body-small mb-2 last:mb-0">
+                <img class="w-4 md:w-6 mr-2 md:mr-4" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">20+ brain training games that are not only fun but also highly effective</div>
+            </div>
+                    <div class="flex items-start text-body-small mb-2 last:mb-0">
+                <img class="w-4 md:w-6 mr-2 md:mr-4" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">Easy-to-follow daily brain training routines created by cognitive experts.</div>
+            </div>
+                    <div class="flex items-start text-body-small mb-2 last:mb-0">
+                <img class="w-4 md:w-6 mr-2 md:mr-4" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">Content available on any devices</div>
+            </div>
+                    <div class="flex items-start text-body-small mb-2 last:mb-0">
+                <img class="w-4 md:w-6 mr-2 md:mr-4" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">Your daily progress tracking</div>
+            </div>
+                    <div class="flex items-start text-body-small mb-2 last:mb-0">
+                <img class="w-4 md:w-6 mr-2 md:mr-4" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">24/7 client support</div>
+            </div>
+            </div>
+</div>
+                    <div class="flex flex-wrap w-full mt-6 lg:mt-10">
+    <div class="w-full lg:basis-1/2">
+        <div class="flex flex-col items-center">
+                            <label for="plan-1" x-on:click="orderUrl = 'https://brainety.com/order/brainety-brain-training-plan-1-months/yxbad?domain=brainety&amp;tld=com';" x-bind:style="checked === 'brainety-brain-training-plan-1-months' ? 'border: 2px solid #8C44FF;' : 'border:1px solid #D9D9D9;'" x-bind:class="checked === 'brainety-brain-training-plan-1-months' ? 'shadow-large' : 'shadow'" class="w-full cursor-pointer bg-white border border-gray-10 rounded p-4 min-w-[343px] max-w-[503px] lg:max-w-[397px] mb-2 md:mb-4">
+    <div class="flex flex-row items-center">
+        <div class="basis-7/12 border-r border-gray-10">
+            <div class="flex flex-row items-center">
+                <input autocomplete="off" type="radio" name="order-check" value="brainety-brain-training-plan-1-months" id="plan-1" class="checkbox-circle w-6 h-6 bg-checkmarker2 mr-4 lg:mr-6" x-model="checked">
+                <div class="flex flex-col space-y-1 pr-2 lg:pr-4 ">
+                    <div class="text-black font-semibold text-button-menu break-all min-w-[150px]">1 month plan</div>
+                    <div class=" flex text-body-small">
+                                                                            <div class="text-gray-60">$29.99</div>
+                                            </div>
+                                            <div class="text-gray-60 text-body-small">Billed every month</div>
+                                                        </div>
+            </div>
+        </div>
+        <div class="basis-5/12">
+            <div class="flex flex-col justify-center items-center mx-auto">
+                                                    <div class="text-black h3 font-semibold">$0.99</div>
+                                <div class="text-gray-40 text-body-small">
+                    per day
+                </div>
+            </div>
+        </div>
+    </div>
+</label>
+                                            <label for="plan-2" x-on:click="orderUrl = 'https://brainety.com/order/brainety-brain-training-plan-6-months/yxbad?domain=brainety&amp;tld=com';" x-bind:style="checked === 'brainety-brain-training-plan-6-months' ? 'border: 2px solid #8C44FF;' : 'border:1px solid #D9D9D9;'" x-bind:class="checked === 'brainety-brain-training-plan-6-months' ? 'shadow-large' : 'shadow'" class="w-full cursor-pointer bg-white border border-gray-10 rounded p-4 min-w-[343px] max-w-[503px] lg:max-w-[397px] mb-2 md:mb-4">
+    <div class="flex flex-row items-center">
+        <div class="basis-7/12 border-r border-gray-10">
+            <div class="flex flex-row items-center">
+                <input autocomplete="off" type="radio" name="order-check" value="brainety-brain-training-plan-6-months" id="plan-2" class="checkbox-circle w-6 h-6 bg-checkmarker2 mr-4 lg:mr-6" x-model="checked" checked="">
+                <div class="flex flex-col space-y-1 pr-2 lg:pr-4 ">
+                    <div class="text-black font-semibold text-button-menu break-all min-w-[150px]">6 month plan</div>
+                    <div class=" flex text-body-small">
+                                                    <div class="line-through text-warning mr-3">$179.94</div>
+                                                                            <div class="text-gray-60">$59.38</div>
+                                            </div>
+                                            <div class="text-gray-60 text-body-small">Billed every 6 months</div>
+                                                                <div class="max-w-[100px] bg-primary py-1 px-2 rounded-[14px] text-white font-semibold text-body-small">Most popular</div>
+                                    </div>
+            </div>
+        </div>
+        <div class="basis-5/12">
+            <div class="flex flex-col justify-center items-center mx-auto">
+                                    <p class="text-gray-40 line-through text-[14px] leading-5">$0.99</p>
+                                                    <div class="text-black h3 font-semibold">$0.33</div>
+                                <div class="text-gray-40 text-body-small">
+                    per day
+                </div>
+            </div>
+        </div>
+    </div>
+</label>
+                                            <label for="plan-3" x-on:click="orderUrl = 'https://brainety.com/order/brainety-brain-training-plan-3-months/yxbad?domain=brainety&amp;tld=com';" x-bind:style="checked === 'brainety-brain-training-plan-3-months' ? 'border: 2px solid #8C44FF;' : 'border:1px solid #D9D9D9;'" x-bind:class="checked === 'brainety-brain-training-plan-3-months' ? 'shadow-large' : 'shadow'" class="w-full cursor-pointer bg-white border border-gray-10 rounded p-4 min-w-[343px] max-w-[503px] lg:max-w-[397px]">
+    <div class="flex flex-row items-center">
+        <div class="basis-7/12 border-r border-gray-10">
+            <div class="flex flex-row items-center">
+                <input autocomplete="off" type="radio" name="order-check" value="brainety-brain-training-plan-3-months" id="plan-3" class="checkbox-circle w-6 h-6 bg-checkmarker2 mr-4 lg:mr-6" x-model="checked">
+                <div class="flex flex-col space-y-1 pr-2 lg:pr-4 ">
+                    <div class="text-black font-semibold text-button-menu break-all min-w-[150px]">3 month plan</div>
+                    <div class=" flex text-body-small">
+                                                    <div class="line-through text-warning mr-3">$89.97</div>
+                                                                            <div class="text-gray-60">$59.38</div>
+                                            </div>
+                                            <div class="text-gray-60 text-body-small">Billed every 3 months</div>
+                                                        </div>
+            </div>
+        </div>
+        <div class="basis-5/12">
+            <div class="flex flex-col justify-center items-center mx-auto">
+                                    <p class="text-gray-40 line-through text-[14px] leading-5">$0.99</p>
+                                                    <div class="text-black h3 font-semibold">$0.66</div>
+                                <div class="text-gray-40 text-body-small">
+                    per day
+                </div>
+            </div>
+        </div>
+    </div>
+</label>
+                                                            <div class="flex flex-row justify-center mt-6">
+                            <label class="text-body-medium cursor-pointer lg:text-body-large font-normal font-sourceSansPro" for="tos">
+                                <input type="checkbox" autocomplete="off" id="tos" name="tos" class="checkbox text-body-medium cursor-pointer lg:text-body-large mr-2 mb-[2.5px]" x-on:click="enableLinkPointerEvents()">
+                                I agree to the <a class="text-primary font-semibold" href="../contacts-1.html?domain=brainety&tld=com">T&Cs</a> and <a class="text-primary font-semibold" href="../privacy-1.html?domain=brainety&tld=com">Privacy policy</a>
+                            </label>
+                        </div>
+                                        <a class="cursor-pointer link max-w-[503px] mt-6 lg:mt-8 text-button-small bg-primary shadow-[0_4px_4px_0_rgba(0,0,0,0.25)] btn py-4 px-6 text-white btn-large w-full relative flex items-center justify-center validatable-link pricing-table-cta" x-on:click="isLinkChecked('tos', $event)" x-bind:href="orderUrl" x-init="orderUrl = 'https://brainety.com/order/brainety-brain-training-plan-6-months/yxbad?domain=brainety&amp;tld=com'">
+                        Order now
+                    </a>
+                                        <img class="mt-8 lg:hidden max-w-[342px] mx-auto" src="../images/brainety/checkout/safe-checkout.png" alt="">
+        </div>
+    </div>
+    <div class="hidden lg:flex lg:flex-wrap justify-center basis-1/2 h-max">
+        <div class="bg-white p-4 md:p-6 border border-gray-10 rounded shadow max-w-[503px] lg:w-[397px] md:!p-4">
+    <div class="flex flex-col space-y-2">
+                    <div class="h5 mb-2 text-[#2A1707] text-center">All plans include</div>
+                            <div class="flex items-start text-body-small mb-2 last:mb-0 first:mt-0">
+                <img class="w-4 mr-2" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">Brain training plan designed with your needs in mind.</div>
+            </div>
+                    <div class="flex items-start text-body-small mb-2 last:mb-0 first:mt-0">
+                <img class="w-4 mr-2" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">20+ brain training games that are not only fun but also highly effective</div>
+            </div>
+                    <div class="flex items-start text-body-small mb-2 last:mb-0 first:mt-0">
+                <img class="w-4 mr-2" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">Easy-to-follow daily brain training routines created by cognitive experts.</div>
+            </div>
+                    <div class="flex items-start text-body-small mb-2 last:mb-0 first:mt-0">
+                <img class="w-4 mr-2" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">Content available on any devices</div>
+            </div>
+                    <div class="flex items-start text-body-small mb-2 last:mb-0 first:mt-0">
+                <img class="w-4 mr-2" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">Your daily progress tracking</div>
+            </div>
+                    <div class="flex items-start text-body-small mb-2 last:mb-0 first:mt-0">
+                <img class="w-4 mr-2" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">24/7 client support</div>
+            </div>
+            </div>
+</div>
+        <img class="mt-4 max-w-[397px] mx-auto" src="../images/brainety/checkout/safe-checkout.png" alt="">
+    </div>
+</div>
+                </div>
+            </div>
+        </div>
+        <div class="px-4 md:p-0 lg:basis-full mt-10 lg:mt-16">
+            <div class="flex flex-wrap justify-center bg-white py-6 px-4 rounded-[10px] md:rounded-none shadow">
+    <div class="flex flex-wrap justify-center items-center">
+        <img class="w-[267px] md:w-[383px] lg:order-2" src="../theme/brainety/summaries/mobile-mock-up.png" alt="">
+        <div class="lg:w-[397px] lg:order-1 mt-6 lg:mt-0 lg:text-justify lg:mr-6">
+            <div class="h5 md:h3 font-semibold">Brain training program</div>
+            <div class="text-gray-80 font-normal text-body-medium md:text-body-large mt-4 md:mt-6">
+                                    <p class="mb-3">A fully personalized guide designed to improve overall brain performance including such areas as: Learning, memory, concentration, mind sharpness, and procrastination etc.</p>
+                                    <p class="mb-3">Forget the pressure of modern life with tons of information going through our heads daily and learn how to filter information and remember it easily.</p>
+                                    <p class="mb-3">Brainety is going to provide an effective brain training experience that will consist of two main parts:</p>
+                                                    <p>&#8226 Brain training games</p>
+                                    <p>&#8226 Tips on how to train your brain on a daily basis</p>
+                            </div>
+        </div>
+    </div>
+</div>
+        </div>
+        <div class="container">
+            <div class="flex flex-wrap justify-center mt-10 lg:mt-16">
+                <div class="lg:basis-10/12">
+                    <div class="flex flex-col justify-center items-center">
+            <h2 class="h5 md:h3 font-semibold w-[344px] md:w-[500px] lg:w-[546px] md:mx-auto ">
+            Here&#039;s what others have to say about Brainety
+        </h2>
+        <div class="my-6 lg:hidden md:mb-0">
+        <div class="flex justify-center relative" x-data="Splide({
+                    buildMarkup: true,
+                    options: {
+                        type: 'slide',
+                        perPage: 1,
+                        arrows: false,
+                    }
+                })">
+                            <div class="px-1.5 pb-4">
+                    <div class="flex flex-col shadow rounded-[24px] mx-auto relative max-w-[344px] min-h-[360px] bg-white">
+                        <div class="min-h-[360px] flex flex-col p-4">
+                                                        <div class="flex flex-1 flex-col justify-between">
+                                <div>
+                                    <img class="w-[102px] mb-2" src="../theme/brainety/icons/stars-55.svg" alt="">
+                                                                            <div class="font-semibold text-body-medium mb-2">You might just surprise yourself</div>
+                                                                        <div class="font-normal text-body-medium mb-2">
+                                        This program increase my learning ability by speeding up my ability to solve a problem at hand and identify a rational conclusion about how to proceed quickly and effortlessly. I was even impressed at how I quickly I analyzed situations, pulled upon my brain resources, memory of information and came to resolution within a matter of minutes. This increased learning speed has boosted my confidence in professional settings, playing games and in personal conversations.
+                                    </div>
+                                </div>
+                                <div class="flex text-body-medium justify-between">
+                                    <div class="font-semibold ">Angela Garisson</div>
+                                    <div class="flex items-center">
+                                        <img class="mr-1" src="../images/brainety/verified.svg" alt="">
+                                        <p class="text-[#2761E7]">Verified user</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                            <div class="px-1.5 pb-4">
+                    <div class="flex flex-col shadow rounded-[24px] mx-auto relative max-w-[344px] min-h-[360px] bg-white">
+                        <div class="min-h-[360px] flex flex-col p-4">
+                                                        <div class="flex flex-1 flex-col justify-between">
+                                <div>
+                                    <img class="w-[102px] mb-2" src="../theme/brainety/icons/stars-55.svg" alt="">
+                                                                            <div class="font-semibold text-body-medium mb-2">Wow – I&#039;m in shock!</div>
+                                                                        <div class="font-normal text-body-medium mb-2">
+                                        I noticed a marked improvement upon my ability to recall people, places, names, statistics, facts, and intricate details that I used to always have trouble with. I found myself easily remembering where I placed things in the house or within my office files, where I struggled finding before. I&#039;m so impressed with the overall improvement of my memory recall after only 2 weeks on their program. I highly recommend your trying Brainety for yourself, you&#039;ll be very happy you did.
+                                    </div>
+                                </div>
+                                <div class="flex text-body-medium justify-between">
+                                    <div class="font-semibold ">Karolina Swan</div>
+                                    <div class="flex items-center">
+                                        <img class="mr-1" src="../images/brainety/verified.svg" alt="">
+                                        <p class="text-[#2761E7]">Verified user</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                            <div class="px-1.5 pb-4">
+                    <div class="flex flex-col shadow rounded-[24px] mx-auto relative max-w-[344px] min-h-[360px] bg-white">
+                        <div class="min-h-[360px] flex flex-col p-4">
+                                                        <div class="flex flex-1 flex-col justify-between">
+                                <div>
+                                    <img class="w-[102px] mb-2" src="../theme/brainety/icons/stars-55.svg" alt="">
+                                                                            <div class="font-semibold text-body-medium mb-2">Turns out I was wrong about online tests!</div>
+                                                                        <div class="font-normal text-body-medium mb-2">
+                                        I was blown away with the invigorating feeling and newfound confidence I found only a week into Brainety&#039;s program. I found I had overall improved clarity, sharpness, and focus! I recommend anyone struggling with clarity and lack of focus, to sign up for their brain programs today!
+                                    </div>
+                                </div>
+                                <div class="flex text-body-medium justify-between">
+                                    <div class="font-semibold ">Jane Smith</div>
+                                    <div class="flex items-center">
+                                        <img class="mr-1" src="../images/brainety/verified.svg" alt="">
+                                        <p class="text-[#2761E7]">Verified user</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+    <div class="hidden lg:flex w-full justify-content-around gap-3 mt-8">
+                    <div class="flex flex-col w-[230px] lg:w-[300px] xl:w-[316px] shadow rounded-[10px] bg-white">
+                <div class="p-4 h-full flex flex-col">
+                                        <img class="w-[102px] mb-2" src="../theme/brainety/icons/stars-55.svg" alt="">
+                    <div class="flex flex-col justify-between h-full">
+                        <div>
+                                                            <div class="font-semibold text-body-medium">You might just surprise yourself</div>
+                                                        <div class="font-normal text-body-medium mb-2">
+                                This program increase my learning ability by speeding up my ability to solve a problem at hand and identify a rational conclusion about how to proceed quickly and effortlessly. I was even impressed at how I quickly I analyzed situations, pulled upon my brain resources, memory of information and came to resolution within a matter of minutes. This increased learning speed has boosted my confidence in professional settings, playing games and in personal conversations.
+                            </div>
+                        </div>
+                        <div class="flex text-body-medium justify-between">
+                            <div class="font-semibold ">Angela Garisson</div>
+                            <div class="flex items-center">
+                                <img class="mr-1" src="../images/brainety/verified.svg" alt="">
+                                <p class="text-[#2761E7] ">Verified user</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    <div class="flex flex-col w-[230px] lg:w-[300px] xl:w-[316px] shadow rounded-[10px] bg-white">
+                <div class="p-4 h-full flex flex-col">
+                                        <img class="w-[102px] mb-2" src="../theme/brainety/icons/stars-55.svg" alt="">
+                    <div class="flex flex-col justify-between h-full">
+                        <div>
+                                                            <div class="font-semibold text-body-medium">Wow – I&#039;m in shock!</div>
+                                                        <div class="font-normal text-body-medium mb-2">
+                                I noticed a marked improvement upon my ability to recall people, places, names, statistics, facts, and intricate details that I used to always have trouble with. I found myself easily remembering where I placed things in the house or within my office files, where I struggled finding before. I&#039;m so impressed with the overall improvement of my memory recall after only 2 weeks on their program. I highly recommend your trying Brainety for yourself, you&#039;ll be very happy you did.
+                            </div>
+                        </div>
+                        <div class="flex text-body-medium justify-between">
+                            <div class="font-semibold ">Karolina Swan</div>
+                            <div class="flex items-center">
+                                <img class="mr-1" src="../images/brainety/verified.svg" alt="">
+                                <p class="text-[#2761E7] ">Verified user</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    <div class="flex flex-col w-[230px] lg:w-[300px] xl:w-[316px] shadow rounded-[10px] bg-white">
+                <div class="p-4 h-full flex flex-col">
+                                        <img class="w-[102px] mb-2" src="../theme/brainety/icons/stars-55.svg" alt="">
+                    <div class="flex flex-col justify-between h-full">
+                        <div>
+                                                            <div class="font-semibold text-body-medium">Turns out I was wrong about online tests!</div>
+                                                        <div class="font-normal text-body-medium mb-2">
+                                I was blown away with the invigorating feeling and newfound confidence I found only a week into Brainety&#039;s program. I found I had overall improved clarity, sharpness, and focus! I recommend anyone struggling with clarity and lack of focus, to sign up for their brain programs today!
+                            </div>
+                        </div>
+                        <div class="flex text-body-medium justify-between">
+                            <div class="font-semibold ">Jane Smith</div>
+                            <div class="flex items-center">
+                                <img class="mr-1" src="../images/brainety/verified.svg" alt="">
+                                <p class="text-[#2761E7] ">Verified user</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+</div>
+                </div>
+                <div class="lg:basis-10/12 xl:basis-8/12">
+                    <div class="container mt-10 lg:mt-16 px-0" card-class="border border-gray-10 shadow-large md:shadow-none" headerfontsize="h5 md:h3">
+    <h2 class="h4 sm:h3 text-center mb-4 md:mb-8 " data-wrap-text="">People often ask us</h2>
+    <div class="flex justify-center">
+        <div class="w-full ">
+                            <div class="p-4 sm:p-6 bg-white rounded my-5 border border-gray-10 shadow-large md:shadow-none">
+                    <h5 class="h5 mb-4">What happens after I order?</h5>
+                    <p class="text-body-large">We&#039;ll send you access to brain training member area where you will find 20+ different brain training games together with guidelines on how to train your brain in daily life situations.</p>
+                </div>
+                            <div class="p-4 sm:p-6 bg-white rounded my-5 border border-gray-10 shadow-large md:shadow-none">
+                    <h5 class="h5 mb-4">How was our brain training program created?</h5>
+                    <p class="text-body-large">Our scientists researched well-known methods of training cognitive abilities like Memory or Concentration, then we adapted these methods and created our brain game program. We have also provided many proven techniques that help to improve your overall brain performance.</p>
+                </div>
+                            <div class="p-4 sm:p-6 bg-white rounded my-5 border border-gray-10 shadow-large md:shadow-none">
+                    <h5 class="h5 mb-4">Why it’s not for free?</h5>
+                    <p class="text-body-large">We&#039;ve worked closely with experts in cognition and psychology to develop our brain training program. The fee you pay allows us to maintain our high standards and keep refining the games.</p>
+                </div>
+                    </div>
+    </div>
+</div>
+
+                    <div class="bg-white p-4 md:p-6 border border-gray-10 rounded shadow max-w-[503px] min-w-[343px] md:p-4 mt-6 lg:hidden mx-auto" iconsize="w-4">
+    <div class="flex flex-col space-y-2">
+                    <div class="h5 mb-2 text-[#2A1707] text-center">All plans include</div>
+                            <div class="flex items-start text-body-small mb-2 last:mb-0">
+                <img class="w-4 md:w-6 mr-2 md:mr-4" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">Brain training plan designed with your needs in mind.</div>
+            </div>
+                    <div class="flex items-start text-body-small mb-2 last:mb-0">
+                <img class="w-4 md:w-6 mr-2 md:mr-4" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">20+ brain training games that are not only fun but also highly effective</div>
+            </div>
+                    <div class="flex items-start text-body-small mb-2 last:mb-0">
+                <img class="w-4 md:w-6 mr-2 md:mr-4" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">Easy-to-follow daily brain training routines created by cognitive experts.</div>
+            </div>
+                    <div class="flex items-start text-body-small mb-2 last:mb-0">
+                <img class="w-4 md:w-6 mr-2 md:mr-4" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">Content available on any devices</div>
+            </div>
+                    <div class="flex items-start text-body-small mb-2 last:mb-0">
+                <img class="w-4 md:w-6 mr-2 md:mr-4" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">Your daily progress tracking</div>
+            </div>
+                    <div class="flex items-start text-body-small mb-2 last:mb-0">
+                <img class="w-4 md:w-6 mr-2 md:mr-4" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">24/7 client support</div>
+            </div>
+            </div>
+</div>
+                    <div class="flex flex-wrap w-full mt-6 lg:mt-10">
+    <div class="w-full lg:basis-1/2">
+        <div class="flex flex-col items-center">
+                            <label for="plan2-1" x-on:click="orderUrl = 'https://brainety.com/order/brainety-brain-training-plan-1-months/yxbad?domain=brainety&amp;tld=com';" x-bind:style="checked === 'brainety-brain-training-plan-1-months' ? 'border: 2px solid #8C44FF;' : 'border:1px solid #D9D9D9;'" x-bind:class="checked === 'brainety-brain-training-plan-1-months' ? 'shadow-large' : 'shadow'" class="w-full cursor-pointer bg-white border border-gray-10 rounded p-4 min-w-[343px] max-w-[503px] lg:max-w-[397px] mb-2 md:mb-4">
+    <div class="flex flex-row items-center">
+        <div class="basis-7/12 border-r border-gray-10">
+            <div class="flex flex-row items-center">
+                <input autocomplete="off" type="radio" name="order-check2" value="brainety-brain-training-plan-1-months" id="plan2-1" class="checkbox-circle w-6 h-6 bg-checkmarker2 mr-4 lg:mr-6" x-model="checked">
+                <div class="flex flex-col space-y-1 pr-2 lg:pr-4 ">
+                    <div class="text-black font-semibold text-button-menu break-all min-w-[150px]">1 month plan</div>
+                    <div class=" flex text-body-small">
+                                                                            <div class="text-gray-60">$29.99</div>
+                                            </div>
+                                            <div class="text-gray-60 text-body-small">Billed every month</div>
+                                                        </div>
+            </div>
+        </div>
+        <div class="basis-5/12">
+            <div class="flex flex-col justify-center items-center mx-auto">
+                                                    <div class="text-black h3 font-semibold">$0.99</div>
+                                <div class="text-gray-40 text-body-small">
+                    per day
+                </div>
+            </div>
+        </div>
+    </div>
+</label>
+                                            <label for="plan2-2" x-on:click="orderUrl = 'https://brainety.com/order/brainety-brain-training-plan-6-months/yxbad?domain=brainety&amp;tld=com';" x-bind:style="checked === 'brainety-brain-training-plan-6-months' ? 'border: 2px solid #8C44FF;' : 'border:1px solid #D9D9D9;'" x-bind:class="checked === 'brainety-brain-training-plan-6-months' ? 'shadow-large' : 'shadow'" class="w-full cursor-pointer bg-white border border-gray-10 rounded p-4 min-w-[343px] max-w-[503px] lg:max-w-[397px] mb-2 md:mb-4">
+    <div class="flex flex-row items-center">
+        <div class="basis-7/12 border-r border-gray-10">
+            <div class="flex flex-row items-center">
+                <input autocomplete="off" type="radio" name="order-check2" value="brainety-brain-training-plan-6-months" id="plan2-2" class="checkbox-circle w-6 h-6 bg-checkmarker2 mr-4 lg:mr-6" x-model="checked" checked="">
+                <div class="flex flex-col space-y-1 pr-2 lg:pr-4 ">
+                    <div class="text-black font-semibold text-button-menu break-all min-w-[150px]">6 month plan</div>
+                    <div class=" flex text-body-small">
+                                                    <div class="line-through text-warning mr-3">$179.94</div>
+                                                                            <div class="text-gray-60">$59.38</div>
+                                            </div>
+                                            <div class="text-gray-60 text-body-small">Billed every 6 months</div>
+                                                                <div class="max-w-[100px] bg-primary py-1 px-2 rounded-[14px] text-white font-semibold text-body-small">Most popular</div>
+                                    </div>
+            </div>
+        </div>
+        <div class="basis-5/12">
+            <div class="flex flex-col justify-center items-center mx-auto">
+                                    <p class="text-gray-40 line-through text-[14px] leading-5">$0.99</p>
+                                                    <div class="text-black h3 font-semibold">$0.33</div>
+                                <div class="text-gray-40 text-body-small">
+                    per day
+                </div>
+            </div>
+        </div>
+    </div>
+</label>
+                                            <label for="plan2-3" x-on:click="orderUrl = 'https://brainety.com/order/brainety-brain-training-plan-3-months/yxbad?domain=brainety&amp;tld=com';" x-bind:style="checked === 'brainety-brain-training-plan-3-months' ? 'border: 2px solid #8C44FF;' : 'border:1px solid #D9D9D9;'" x-bind:class="checked === 'brainety-brain-training-plan-3-months' ? 'shadow-large' : 'shadow'" class="w-full cursor-pointer bg-white border border-gray-10 rounded p-4 min-w-[343px] max-w-[503px] lg:max-w-[397px]">
+    <div class="flex flex-row items-center">
+        <div class="basis-7/12 border-r border-gray-10">
+            <div class="flex flex-row items-center">
+                <input autocomplete="off" type="radio" name="order-check2" value="brainety-brain-training-plan-3-months" id="plan2-3" class="checkbox-circle w-6 h-6 bg-checkmarker2 mr-4 lg:mr-6" x-model="checked">
+                <div class="flex flex-col space-y-1 pr-2 lg:pr-4 ">
+                    <div class="text-black font-semibold text-button-menu break-all min-w-[150px]">3 month plan</div>
+                    <div class=" flex text-body-small">
+                                                    <div class="line-through text-warning mr-3">$89.97</div>
+                                                                            <div class="text-gray-60">$59.38</div>
+                                            </div>
+                                            <div class="text-gray-60 text-body-small">Billed every 3 months</div>
+                                                        </div>
+            </div>
+        </div>
+        <div class="basis-5/12">
+            <div class="flex flex-col justify-center items-center mx-auto">
+                                    <p class="text-gray-40 line-through text-[14px] leading-5">$0.99</p>
+                                                    <div class="text-black h3 font-semibold">$0.66</div>
+                                <div class="text-gray-40 text-body-small">
+                    per day
+                </div>
+            </div>
+        </div>
+    </div>
+</label>
+                                                            <div class="flex flex-row justify-center mt-6">
+                            <label class="text-body-medium cursor-pointer lg:text-body-large font-normal font-sourceSansPro" for="tos2">
+                                <input type="checkbox" autocomplete="off" id="tos2" name="tos" class="checkbox text-body-medium cursor-pointer lg:text-body-large mr-2 mb-[2.5px]" x-on:click="enableLinkPointerEvents()">
+                                I agree to the <a class="text-primary font-semibold" href="../contacts-1.html?domain=brainety&tld=com">T&Cs</a> and <a class="text-primary font-semibold" href="../privacy-1.html?domain=brainety&tld=com">Privacy policy</a>
+                            </label>
+                        </div>
+                                        <a class="cursor-pointer link max-w-[503px] mt-6 lg:mt-8 text-button-small bg-primary shadow-[0_4px_4px_0_rgba(0,0,0,0.25)] btn py-4 px-6 text-white btn-large w-full relative flex items-center justify-center validatable-link pricing-table-cta" x-on:click="isLinkChecked('tos2', $event)" x-bind:href="orderUrl" x-init="orderUrl = 'https://brainety.com/order/brainety-brain-training-plan-6-months/yxbad?domain=brainety&amp;tld=com'">
+                        Order now
+                    </a>
+                                        <img class="mt-8 lg:hidden max-w-[342px] mx-auto" src="../images/brainety/checkout/safe-checkout.png" alt="">
+        </div>
+    </div>
+    <div class="hidden lg:flex lg:flex-wrap justify-center basis-1/2 h-max">
+        <div class="bg-white p-4 md:p-6 border border-gray-10 rounded shadow max-w-[503px] lg:w-[397px] md:!p-4">
+    <div class="flex flex-col space-y-2">
+                    <div class="h5 mb-2 text-[#2A1707] text-center">All plans include</div>
+                            <div class="flex items-start text-body-small mb-2 last:mb-0 first:mt-0">
+                <img class="w-4 mr-2" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">Brain training plan designed with your needs in mind.</div>
+            </div>
+                    <div class="flex items-start text-body-small mb-2 last:mb-0 first:mt-0">
+                <img class="w-4 mr-2" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">20+ brain training games that are not only fun but also highly effective</div>
+            </div>
+                    <div class="flex items-start text-body-small mb-2 last:mb-0 first:mt-0">
+                <img class="w-4 mr-2" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">Easy-to-follow daily brain training routines created by cognitive experts.</div>
+            </div>
+                    <div class="flex items-start text-body-small mb-2 last:mb-0 first:mt-0">
+                <img class="w-4 mr-2" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">Content available on any devices</div>
+            </div>
+                    <div class="flex items-start text-body-small mb-2 last:mb-0 first:mt-0">
+                <img class="w-4 mr-2" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">Your daily progress tracking</div>
+            </div>
+                    <div class="flex items-start text-body-small mb-2 last:mb-0 first:mt-0">
+                <img class="w-4 mr-2" src="../images/brainety/checkout-4/check.svg" alt="">
+                <div class="text-gray-80">24/7 client support</div>
+            </div>
+            </div>
+</div>
+        <img class="mt-4 max-w-[397px] mx-auto" src="../images/brainety/checkout/safe-checkout.png" alt="">
+    </div>
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+</body>
+</html>

@@ -1,0 +1,1104 @@
+Uri: https://brainety.com/
+File Name: E:\siteCopies\brainety.com\index.htm
+Content Type: text/html
+
+Uri: https://brainety.com/build/assets/alpine-js.ba4ade6a.js
+File Name: E:\siteCopies\brainety.com\build\assets\alpine-js.ba4ade6a.js
+Content Type: application/javascript
+
+Uri: https://brainety.com/build/assets/alpine-splide.20fa29e2.js
+File Name: E:\siteCopies\brainety.com\build\assets\alpine-splide.20fa29e2.js
+Content Type: application/javascript
+
+Uri: https://brainety.com/build/assets/app.32825e91.js
+File Name: E:\siteCopies\brainety.com\build\assets\app.32825e91.js
+Content Type: application/javascript
+
+Uri: https://brainety.com/build/assets/app.88c62872.css
+File Name: E:\siteCopies\brainety.com\build\assets\app.88c62872.css
+Content Type: text/css
+
+Uri: https://brainety.com/build/assets/check-2.65a82ed3.svg
+File Name: E:\siteCopies\brainety.com\build\assets\check-2.65a82ed3.svg
+Content Type: image/svg+xml
+
+Uri: https://brainety.com/build/assets/check.62b61eb2.svg
+File Name: E:\siteCopies\brainety.com\build\assets\check.62b61eb2.svg
+Content Type: image/svg+xml
+
+Uri: https://brainety.com/build/assets/custom.787e8e1e.js
+File Name: E:\siteCopies\brainety.com\build\assets\custom.787e8e1e.js
+Content Type: application/javascript
+
+Uri: https://brainety.com/build/assets/desktop-bg_waves.91acc352.png
+File Name: E:\siteCopies\brainety.com\build\assets\desktop-bg_waves.91acc352.png
+Content Type: image/png
+
+Uri: https://brainety.com/build/assets/gtm-tags.04b68e85.js
+File Name: E:\siteCopies\brainety.com\build\assets\gtm-tags.04b68e85.js
+Content Type: application/javascript
+
+Uri: https://brainety.com/build/assets/input-validation.492ccd14.js
+File Name: E:\siteCopies\brainety.com\build\assets\input-validation.492ccd14.js
+Content Type: application/javascript
+
+Uri: https://brainety.com/build/assets/iq-test.fe013a26.js
+File Name: E:\siteCopies\brainety.com\build\assets\iq-test.fe013a26.js
+Content Type: application/javascript
+
+Uri: https://brainety.com/build/assets/local-storage.18436470.js
+File Name: E:\siteCopies\brainety.com\build\assets\local-storage.18436470.js
+Content Type: application/javascript
+
+Uri: https://brainety.com/build/assets/mobile-bg_waves.7a7037ab.png
+File Name: E:\siteCopies\brainety.com\build\assets\mobile-bg_waves.7a7037ab.png
+Content Type: image/png
+
+Uri: https://brainety.com/build/assets/Poppins-Bold.7219547e.ttf
+File Name: E:\siteCopies\brainety.com\build\assets\Poppins-Bold.7219547e.ttf
+Content Type: application/octet-stream
+
+Uri: https://brainety.com/build/assets/Poppins-ExtraBold.94a215f8.ttf
+File Name: E:\siteCopies\brainety.com\build\assets\Poppins-ExtraBold.94a215f8.ttf
+Content Type: application/octet-stream
+
+Uri: https://brainety.com/build/assets/Poppins-Light.647f014d.ttf
+File Name: E:\siteCopies\brainety.com\build\assets\Poppins-Light.647f014d.ttf
+Content Type: application/octet-stream
+
+Uri: https://brainety.com/build/assets/Poppins-Medium.8d909883.ttf
+File Name: E:\siteCopies\brainety.com\build\assets\Poppins-Medium.8d909883.ttf
+Content Type: application/octet-stream
+
+Uri: https://brainety.com/build/assets/Poppins-Regular.707fdc5c.ttf
+File Name: E:\siteCopies\brainety.com\build\assets\Poppins-Regular.707fdc5c.ttf
+Content Type: application/octet-stream
+
+Uri: https://brainety.com/build/assets/Poppins-SemiBold.248c0244.ttf
+File Name: E:\siteCopies\brainety.com\build\assets\Poppins-SemiBold.248c0244.ttf
+Content Type: application/octet-stream
+
+Uri: https://brainety.com/build/assets/track-user.afac72df.js
+File Name: E:\siteCopies\brainety.com\build\assets\track-user.afac72df.js
+Content Type: application/javascript
+
+Uri: https://brainety.com/build/assets/world-map.e3b0c442.png
+File Name: E:\siteCopies\brainety.com\build\assets\world-map.e3b0c442.png
+Content Type: image/png
+
+Uri: https://brainety.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: E:\siteCopies\brainety.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://brainety.com/cdn-cgi/images/cf-icon-browser.png
+File Name: E:\siteCopies\brainety.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://brainety.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: E:\siteCopies\brainety.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://brainety.com/cdn-cgi/images/cf-icon-error.png
+File Name: E:\siteCopies\brainety.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://brainety.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: E:\siteCopies\brainety.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://brainety.com/cdn-cgi/images/cf-icon-ok.png
+File Name: E:\siteCopies\brainety.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://brainety.com/cdn-cgi/images/cf-icon-server.png
+File Name: E:\siteCopies\brainety.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://brainety.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: E:\siteCopies\brainety.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://brainety.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: E:\siteCopies\brainety.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://brainety.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: E:\siteCopies\brainety.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://brainety.com/cdn-cgi/l/email-protection
+File Name: E:\siteCopies\brainety.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://brainety.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: E:\siteCopies\brainety.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://brainety.com/cdn-cgi/styles/cf.errors.css
+File Name: E:\siteCopies\brainety.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://brainety.com/checkout-9-ppa/yxbad?itse=1
+File Name: E:\siteCopies\brainety.com\checkout-9-ppa\yxbad.html
+Content Type: text/html
+
+Uri: https://brainety.com/contacts
+File Name: E:\siteCopies\brainety.com\contacts.html
+Content Type: text/html
+
+Uri: https://brainety.com/contacts?domain=brainety&tld=com
+File Name: E:\siteCopies\brainety.com\contacts-1.html
+Content Type: text/html
+
+Uri: https://brainety.com/images/arrow-left-s-line.svg
+File Name: E:\siteCopies\brainety.com\images\arrow-left-s-line.svg
+Content Type: image/svg+xml
+
+Uri: https://brainety.com/images/arrow-right-s-line.svg
+File Name: E:\siteCopies\brainety.com\images\arrow-right-s-line.svg
+Content Type: image/svg+xml
+
+Uri: https://brainety.com/images/brainety/arrow-right.svg
+File Name: E:\siteCopies\brainety.com\images\brainety\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://brainety.com/images/brainety/checkout-4/check.svg
+File Name: E:\siteCopies\brainety.com\images\brainety\checkout-4\check.svg
+Content Type: image/svg+xml
+
+Uri: https://brainety.com/images/brainety/checkout/safe-checkout.png
+File Name: E:\siteCopies\brainety.com\images\brainety\checkout\safe-checkout.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/brainety/headers/home.png
+File Name: E:\siteCopies\brainety.com\images\brainety\headers\home.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/brainety/headers/iq_test_on_iphone.png
+File Name: E:\siteCopies\brainety.com\images\brainety\headers\iq_test_on_iphone.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/brainety/icons/skill_concentration.png
+File Name: E:\siteCopies\brainety.com\images\brainety\icons\skill_concentration.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/brainety/icons/skill_logic.png
+File Name: E:\siteCopies\brainety.com\images\brainety\icons\skill_logic.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/brainety/icons/skill_memory.png
+File Name: E:\siteCopies\brainety.com\images\brainety\icons\skill_memory.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/brainety/icons/skill_reaction.png
+File Name: E:\siteCopies\brainety.com\images\brainety\icons\skill_reaction.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/brainety/icons/skill_speed.png
+File Name: E:\siteCopies\brainety.com\images\brainety\icons\skill_speed.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/brainety/verified.svg
+File Name: E:\siteCopies\brainety.com\images\brainety\verified.svg
+Content Type: image/svg+xml
+
+Uri: https://brainety.com/images/btn-arrow.svg
+File Name: E:\siteCopies\brainety.com\images\btn-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://brainety.com/images/contacts/person.png
+File Name: E:\siteCopies\brainety.com\images\contacts\person.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/favicons/brainety.svg
+File Name: E:\siteCopies\brainety.com\images\favicons\brainety.svg
+Content Type: image/svg+xml
+
+Uri: https://brainety.com/images/iq/questions/1/1.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\1\1.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/1/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\1\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/1/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\1\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/1/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\1\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/1/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\1\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/1/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\1\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/1/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\1\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/10/10.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\10\10.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/10/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\10\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/10/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\10\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/10/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\10\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/10/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\10\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/10/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\10\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/10/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\10\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/11/11.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\11\11.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/11/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\11\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/11/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\11\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/11/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\11\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/11/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\11\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/11/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\11\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/11/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\11\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/12/12.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\12\12.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/12/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\12\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/12/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\12\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/12/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\12\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/12/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\12\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/12/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\12\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/12/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\12\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/13/13.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\13\13.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/13/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\13\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/13/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\13\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/13/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\13\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/13/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\13\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/13/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\13\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/13/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\13\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/14/14.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\14\14.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/14/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\14\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/14/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\14\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/14/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\14\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/14/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\14\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/14/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\14\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/14/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\14\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/15/15.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\15\15.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/15/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\15\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/15/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\15\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/15/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\15\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/15/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\15\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/15/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\15\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/15/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\15\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/16/16.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\16\16.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/16/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\16\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/16/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\16\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/16/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\16\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/16/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\16\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/16/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\16\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/16/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\16\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/17/17.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\17\17.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/17/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\17\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/17/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\17\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/17/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\17\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/17/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\17\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/17/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\17\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/17/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\17\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/18/18.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\18\18.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/18/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\18\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/18/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\18\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/18/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\18\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/18/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\18\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/18/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\18\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/18/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\18\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/19/19.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\19\19.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/19/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\19\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/19/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\19\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/19/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\19\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/19/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\19\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/19/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\19\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/19/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\19\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/2/2.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\2\2.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/2/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\2\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/2/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\2\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/2/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\2\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/2/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\2\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/2/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\2\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/2/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\2\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/20/20.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\20\20.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/20/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\20\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/20/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\20\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/20/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\20\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/20/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\20\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/20/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\20\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/20/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\20\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/21/21.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\21\21.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/21/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\21\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/21/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\21\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/21/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\21\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/21/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\21\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/21/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\21\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/21/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\21\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/22/22.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\22\22.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/22/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\22\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/22/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\22\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/22/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\22\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/22/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\22\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/22/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\22\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/22/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\22\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/23/23.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\23\23.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/23/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\23\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/23/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\23\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/23/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\23\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/23/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\23\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/23/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\23\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/23/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\23\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/24/24.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\24\24.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/24/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\24\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/24/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\24\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/24/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\24\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/24/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\24\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/24/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\24\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/24/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\24\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/25/25.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\25\25.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/25/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\25\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/25/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\25\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/25/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\25\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/25/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\25\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/25/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\25\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/25/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\25\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/26/26.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\26\26.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/26/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\26\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/26/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\26\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/26/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\26\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/26/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\26\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/26/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\26\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/26/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\26\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/27/27.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\27\27.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/27/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\27\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/27/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\27\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/27/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\27\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/27/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\27\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/27/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\27\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/27/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\27\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/28/28.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\28\28.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/28/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\28\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/28/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\28\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/28/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\28\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/28/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\28\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/28/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\28\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/28/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\28\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/29/29.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\29\29.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/29/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\29\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/29/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\29\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/29/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\29\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/29/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\29\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/29/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\29\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/29/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\29\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/3/3.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\3\3.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/3/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\3\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/3/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\3\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/3/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\3\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/3/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\3\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/3/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\3\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/3/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\3\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/30/30.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\30\30.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/30/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\30\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/30/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\30\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/30/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\30\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/30/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\30\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/30/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\30\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/30/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\30\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/4/4.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\4\4.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/4/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\4\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/4/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\4\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/4/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\4\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/4/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\4\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/4/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\4\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/4/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\4\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/5/5.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\5\5.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/5/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\5\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/5/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\5\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/5/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\5\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/5/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\5\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/5/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\5\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/5/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\5\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/6/6.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\6\6.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/6/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\6\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/6/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\6\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/6/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\6\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/6/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\6\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/6/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\6\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/6/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\6\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/7/7.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\7\7.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/7/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\7\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/7/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\7\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/7/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\7\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/7/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\7\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/7/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\7\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/7/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\7\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/8/8.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\8\8.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/8/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\8\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/8/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\8\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/8/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\8\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/8/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\8\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/8/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\8\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/8/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\8\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/9/9.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\9\9.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/9/a.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\9\a.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/9/b.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\9\b.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/9/c.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\9\c.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/9/d.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\9\d.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/9/e.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\9\e.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/iq/questions/9/f.png
+File Name: E:\siteCopies\brainety.com\images\iq\questions\9\f.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/logos/brainety.png
+File Name: E:\siteCopies\brainety.com\images\logos\brainety.png
+Content Type: image/png
+
+Uri: https://brainety.com/images/sand-clock.svg
+File Name: E:\siteCopies\brainety.com\images\sand-clock.svg
+Content Type: image/svg+xml
+
+Uri: https://brainety.com/login
+File Name: E:\siteCopies\brainety.com\login.html
+Content Type: text/html
+
+Uri: https://brainety.com/privacy
+File Name: E:\siteCopies\brainety.com\privacy.html
+Content Type: text/html
+
+Uri: https://brainety.com/privacy?domain=brainety&tld=com
+File Name: E:\siteCopies\brainety.com\privacy-1.html
+Content Type: text/html
+
+Uri: https://brainety.com/reset
+File Name: E:\siteCopies\brainety.com\reset.html
+Content Type: text/html
+
+Uri: https://brainety.com/start/iq?hostr=1
+File Name: E:\siteCopies\brainety.com\start\iq.html
+Content Type: text/html
+
+Uri: https://brainety.com/terms
+File Name: E:\siteCopies\brainety.com\terms.html
+Content Type: text/html
+
+Uri: https://brainety.com/test/iq/lx9j96?hostr=1
+File Name: E:\siteCopies\brainety.com\test\iq\lx9j96.html
+Content Type: text/html
+
+Uri: https://brainety.com/theme/brainety/icons/stars-55.svg
+File Name: E:\siteCopies\brainety.com\theme\brainety\icons\stars-55.svg
+Content Type: image/svg+xml
+
+Uri: https://brainety.com/theme/brainety/summaries/mobile-mock-up.png
+File Name: E:\siteCopies\brainety.com\theme\brainety\summaries\mobile-mock-up.png
+Content Type: image/png
+
+Uri: https://widget.freshworks.com/widgetBase/bootstrap.js
+File Name: E:\siteCopies\brainety.com\widgetBase\bootstrap.js
+Content Type: application/javascript
+
