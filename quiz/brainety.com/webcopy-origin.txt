@@ -1,0 +1,56 @@
+Uri: https://./build/assets/alpine-js.ba4ade6a.js
+File Name: E:\siteCopies\.\quiz\.\build\assets\alpine-js.ba4ade6a.js
+Content Type: application/javascript
+
+Uri: https://./build/assets/app.32825e91.js
+File Name: E:\siteCopies\.\quiz\.\build\assets\app.32825e91.js
+Content Type: application/javascript
+
+Uri: https://./build/assets/app.88c62872.css
+File Name: E:\siteCopies\.\quiz\.\build\assets\app.88c62872.css
+Content Type: text/css
+
+Uri: https://./build/assets/track-user.afac72df.js
+File Name: E:\siteCopies\.\quiz\.\build\assets\track-user.afac72df.js
+Content Type: application/javascript
+
+Uri: https://./cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: E:\siteCopies\.\quiz\.\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://./images/brainety/landing/results.png
+File Name: E:\siteCopies\.\quiz\.\images\brainety\landing\results.png
+Content Type: image/png
+
+Uri: https://./images/brainety/sections/latest-results/AU.svg
+File Name: E:\siteCopies\.\quiz\.\images\brainety\sections\latest-results\AU.svg
+Content Type: image/svg+xml
+
+Uri: https://./images/brainety/sections/latest-results/CA.svg
+File Name: E:\siteCopies\.\quiz\.\images\brainety\sections\latest-results\CA.svg
+Content Type: image/svg+xml
+
+Uri: https://./images/brainety/sections/latest-results/ES.svg
+File Name: E:\siteCopies\.\quiz\.\images\brainety\sections\latest-results\ES.svg
+Content Type: image/svg+xml
+
+Uri: https://./images/brainety/sections/latest-results/GB.svg
+File Name: E:\siteCopies\.\quiz\.\images\brainety\sections\latest-results\GB.svg
+Content Type: image/svg+xml
+
+Uri: https://./images/brainety/sections/latest-results/US.svg
+File Name: E:\siteCopies\.\quiz\.\images\brainety\sections\latest-results\US.svg
+Content Type: image/svg+xml
+
+Uri: https://./images/favicons/brainety.svg
+File Name: E:\siteCopies\.\quiz\.\images\favicons\brainety.svg
+Content Type: image/svg+xml
+
+Uri: https://./images/logos/brainety.png
+File Name: E:\siteCopies\.\quiz\.\images\logos\brainety.png
+Content Type: image/png
+
+Uri: https://./landing/?l=en&cmpid=636e06205a97d40001dbae9b&vndr=braiqfbmat&fbclid=IwAR39xbyVVBiFKY47EmMMLVdZg9oFl1gOkG7BBzfnetcYiR_CHo-TXludiyE
+File Name: E:\siteCopies\.\quiz\.\landing\index.htm
+Content Type: text/html
+
